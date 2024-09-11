@@ -9,7 +9,7 @@ Answer:
 - **Segmentation and Targeting** <br/> The platform provides granular segmentation options, allowing tests to be targeted at specific user groups based on a wide range of attributes, behaviors, and custom data points.</a>
 
 
-
+<br/><br/><br/>
 <h3>Has anyone used optimizely or the competitors</h3>
 - Google Optimize
 - Kameleoon
