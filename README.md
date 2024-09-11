@@ -1,6 +1,6 @@
 # readme
 Asking Claude 3.5 Sonnet about Optimizely, an Iframe loaded on VP Harris website. 
-Question: “Explain this Optimizely: More advanced A/B testing and personalization capabilities
+<br/>Question: “Explain this Optimizely: More advanced A/B testing and personalization capabilities
 
 Answer:
 a) Multivariate Testing: Optimizely allows for more complex multivariate tests, enabling users to test multiple variables simultaneously. This helps in understanding the interactions between different elements on a page.
